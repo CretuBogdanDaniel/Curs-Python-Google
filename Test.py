@@ -10,4 +10,5 @@ print(lista_descendenta)
 print(lista_ascendeta)
 print("Multipli lui 3 sunt: ")
 print(end = mul3())
+print("LAUR AJUTA")
 
