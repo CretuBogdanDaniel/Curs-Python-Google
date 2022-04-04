@@ -6,9 +6,10 @@ def mul3():
         if(i % 3 == 0):
             print(i, end = ", ")
 
-print(lista_descendenta)
 print(lista_ascendeta)
+print(lista_descendenta)
+print(lista_ascendeta[1::2])
+print(lista_ascendeta[::2])
 print("Multipli lui 3 sunt: ")
 print(end = mul3())
-print("LAUR AJUTA")
 
